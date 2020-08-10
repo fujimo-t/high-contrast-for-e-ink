@@ -34,6 +34,8 @@
 		"menu.selectionBorder": "#000000",
 		"menu.selectionForeground": "#000000",
 		"menubar.selectionBorder": "#000000",
+		"panel.border": "#000000",
+		"panelInput.border": "#000000",
 		"selection.background": "#999999",
 		"sideBarSectionHeader.background": "#ffffff",
 		"sideBarSectionHeader.border": "#000000",
