@@ -1,0 +1,21 @@
+{
+    "name": "high-contrast-for-e-ink",
+    "displayName": "High Contrast for E Ink",
+    "description": "Light high contrast theme for E Ink monitors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "High Contrast E Ink",
+                "uiTheme": "vs",
+                "path": "./themes/high-contrast-e-ink-color-theme.json"
+            }
+        ]
+    }
+}
