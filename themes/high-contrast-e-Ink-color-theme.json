@@ -46,7 +46,6 @@
 		"menubar.selectionBorder": "#000000",
 		"notificationCenter.border": "#000000",
 		"notificationCenterHeader.background": "#ffffff",
-		"notifications.border": "#000000",
 		"notificationsErrorIcon.foreground": "#000000",
 		"notificationsInfoIcon.foreground": "#000000",
 		"notificationsWarningIcon.foreground": "#000000",
