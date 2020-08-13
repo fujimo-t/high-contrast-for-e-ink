@@ -31,7 +31,7 @@
 		"extensionBadge.remoteBackground": "#000000",
 		"focusBorder": "#000000",
 		"foreground": "#000000",
-		"icon.foreground": "#ffffff",
+		"icon.foreground": "#000000",
 		"input.border": "#000000",
 		"inputOption.activeBorder": "#000000",
 		"menu.border": "#ffffff",
