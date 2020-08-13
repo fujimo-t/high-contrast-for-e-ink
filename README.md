@@ -4,7 +4,7 @@ Features:
 * White background separated by black borders
 * No highlight but also borders for item selection
 
-![Screenshot](screenshot.jpg)
+![Screenshot](https://raw.githubusercontent.com/fujimo-t/high-contrast-for-e-ink/master/screenshot.jpg)
 
 ## Acknowledgements
 
