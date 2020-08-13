@@ -54,7 +54,7 @@
 		"titleBar.border": "#000000",
 		"titleBar.inactiveBackground": "#ffffff",
 		"titleBar.inactiveForeground": "#000000",
-		"widget.shadow": "#000000",
+		"widget.shadow": "#00000000",
 		"window.activeBorder": "#000000",
 		"window.inactiveBorder": "#000000",
 	},
