@@ -4,6 +4,7 @@
 	"type": "light",
 	"colors": {
 		"activityBar.background": "#ffffff",
+		"activityBar.dropBorder": "#ffffff",
 		"activityBar.foreground": "#000000",
 		"activityBar.inactiveForeground": "#000000",
 		"activityBarBadge.background": "#ffffff",
