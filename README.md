@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "high-contrast-for-e-ink"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Light High Contrast Theme of Visual Studio Code for E Ink Monitors 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Features:
+* White background separated by black borders
+* No highlight but also borders for item selection
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Screenshot](screenshot.jpg)
 
-**Enjoy!**
+## Acknowledgements
+
+This theme was inspired by:
+* UI of [ONYX BOOX series](https://onyxboox.com/)
+* [High contrast theme of Visual Studio Code](https://code.visualstudio.com/docs/editor/accessibility#_high-contrast-theme)
+
+Syntax color is from [E-Ink](https://marketplace.visualstudio.com/items?itemName=mufanza.e-ink-theme), which is also a theme for E Ink monitors.
+
+[Notification Tester](https://marketplace.visualstudio.com/items?itemName=svipas.notification-tester) extension was used to test.
