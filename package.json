@@ -18,5 +18,9 @@
                 "path": "./themes/high-contrast-e-ink-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fujimo-t/high-contrast-for-e-ink.git"
     }
 }
