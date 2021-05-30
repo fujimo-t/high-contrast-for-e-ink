@@ -2,7 +2,7 @@
 	"name": "high-contrast-for-e-ink",
 	"displayName": "High Contrast for E Ink",
 	"description": "Light high contrast theme for E Ink monitors",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "fujimo-t",
 	"engines": {
 		"vscode": "^1.47.0"
