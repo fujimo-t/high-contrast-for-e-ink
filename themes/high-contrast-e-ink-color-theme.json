@@ -110,7 +110,6 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#888888",
 				"fontStyle": "italic"
 			}
 		},
