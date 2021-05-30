@@ -39,7 +39,7 @@
 		"list.inactiveSelectionForeground": "#000000",
 		"list.activeSelectionBackground": "#ffffff",
 		"list.activeSelectionForeground": "#000000",
-		"menu.border": "#ffffff",
+		"menu.border": "#000000",
 		"menu.selectionBackground": "#ffffff",
 		"menu.selectionBorder": "#000000",
 		"menu.selectionForeground": "#000000",
