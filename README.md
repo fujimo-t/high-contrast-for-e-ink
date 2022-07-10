@@ -1,3 +1,5 @@
+Archived: Now Visual Studio Code has [default light high contrast theme](https://github.com/microsoft/vscode/pull/143398) and I recommend to use it.
+
 # Light High Contrast Theme of Visual Studio Code for E Ink Monitors 
 
 Features:
